@@ -1,0 +1,23 @@
+class Pato{
+	
+	Integer id;
+	String nombre;
+	Integer patas;
+
+
+	method volar(){
+		return 5*12;
+	}
+
+	method correr(){
+		if(this.volar() > 100){
+			return "puede volar y correr";
+		}else{
+			return "solo puede correr";
+		}
+	}
+
+	method caminar(){
+		return "Solo ando caminando";
+	}
+}
