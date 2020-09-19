@@ -11,9 +11,9 @@ class Pato{
 
 	method correr(){
 		if(this.volar() > 100){
-			return "puede volar y correr veloz";
+			return "puede volar y correr rapido";
 		}else{
-			return "solo puede correr rapido";
+			return "solo puede correr velozmente";
 		}
 	}
 
