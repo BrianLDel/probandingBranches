@@ -18,6 +18,6 @@ class Pato{
 	}
 
 	method caminar(){
-		return "Solo ando caminandos";
+		return "Solo ando correr jaja";
 	}
 }
