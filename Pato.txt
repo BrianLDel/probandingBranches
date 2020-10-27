@@ -20,4 +20,6 @@ class Pato{
 	method caminar(){
 		return "Solo ando correr jeje";
 	}
+
+	method hola(){}
 }
